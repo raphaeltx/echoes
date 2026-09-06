@@ -42,9 +42,6 @@ bin/
 # VS Code
 .vscode/
 
-# Spring Boot
-HELP.md
-
 # Environment / secrets
 .env
 application-local.properties
